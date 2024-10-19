@@ -1,6 +1,6 @@
 [submodule "grid-text-worker"]
 	path = grid-text-worker
-	url = https://github.com/lexx/text-worker.git
+	url = https://github.com/lexxaipg/text-worker.git
 [submodule "image-worker"]
 	path = image-worker
 	url = https://github.com/dex3r/image-worker.git
